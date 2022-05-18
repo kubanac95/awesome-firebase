@@ -96,6 +96,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 - 🔧 [Typesaurus](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
 - 🔌 [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
 - 🔌 [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - Location-based querying and filtering using Firebase Firestore.
+- 🔌 [React Query Firebase](https://react-query-firebase.invertase.dev/) - React Query Firebase provides a set of easy to use hooks for common Firebase usecases. Each hook wraps around [React Query](https://react-query.tanstack.com/), allowing to easily integrate the hooks into a new or existing project, whilst enjoying the powerful benefits React Query offers
 
 ## Mobile
 
